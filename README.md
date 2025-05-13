@@ -1,32 +1,32 @@
 [![INFORMS Journal on Computing Logo](https://INFORMSJoC.github.io/logos/INFORMS_Journal_on_Computing_Header.jpg)](https://pubsonline.informs.org/journal/ijoc)
 
-# An efficient optimization model and tabu search-based global optimization approach for continuous p-dispersion problem
+# A Hybrid Genetic Algorithm with Multi-population for Capacitated Location Routing
 
 This archive is distributed in association with the [INFORMS Journal on
 Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
 
 The software and data in this repository are a snapshot of the software and data
-that were used in the research reported in the paper _An efficient optimization model and tabu search-based global optimization approach for continuous p-dispersion problem_ by L.J. Lai, Z.H. Lin, J.K. Hao, and Q.H. Wu. 
+that were used in the research reported in the paper _A Hybrid Genetic Algorithm with Multi-population for Capacitated Location Routing_ by P.F. He, J.K. Hao, and Q.H. Wu. 
 
 ## Cite
 
 To cite the contents of this repository, please cite both the paper and this repo, using their respective DOIs.
 
-https://doi.org/10.1287/ijoc.2023.0089
 
-https://doi.org/10.1287/ijoc.2023.0089.cd
+
+
 
 Below is the BibTex for citing this snapshot of the repository.
 
 ```
-@misc{Dispersion2024,
-  author =        {Xiangjing Lai, Zhenheng Lin, Jin-Kao Hao and Qinghua Wu},
+@misc{Hybrid2025,
+  author =        {Pengfei He, Jin-Kao Hao and Qinghua Wu},
   publisher =     {INFORMS Journal on Computing},
-  title =         {An efficient optimization model and tabu search-based global optimization approach for continuous p-dispersion problem},
-  year =          {2024},
-  doi =           {10.1287/ijoc.2023.0089.cd},
-  url =           {https://github.com/INFORMSJoC/2023.0089},
-  note =          {Available for download at https://github.com/INFORMSJoC/2023.0089},
+  title =         {A Hybrid Genetic Algorithm with Multi-population for Capacitated Location Routing},
+  year =          {2025},
+  doi =           {},
+  url =           {},
+  note =          {Available for download at https://github.com/INFORMSJoC/2023.0416},
 } 
 ```
 
