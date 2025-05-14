@@ -31,6 +31,24 @@ Below is the BibTex for citing this snapshot of the repository.
 } 
 ```
 
+## Running the programs
+
+To generate the executable codes (ilrp) of HGAMPP algorithm respectively for the CLRP, one can run 'make' command under code folder in linux system.
+
+ ### The CLRP
+_Usage:_ 
+
+./code/ilrp instance depot_config outputFile bestValue isOptimal timeLimit numOfRuns randomSeed
+
+- 'instance' is the input benchamrk instance
+- 'depot_config' denotes the input depot configuration associated with the input instance, and this parameter can be removed
+- 'outputFile' is the name of output file 
+- 'bestValue' is the best result found from literature.
+- 'isOptimal' is used to indicate whether the bestValue is the optimal result.
+- 'timeLimit' is the time limit of each run
+- 'numOfRuns' is the maximum runs of each run
+- 'randomSeed' is the random seed 
+
 ## Materials
 This repository includes the following materials:
 
