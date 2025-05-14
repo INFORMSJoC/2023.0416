@@ -1,0 +1,21 @@
+The objective is: 
+203988
+The running time is: 
+302.77
+The time meeting best is: 
+302.77
+Location: 2(load: 560) 
+ Route 0(load: 137) 24 41 1 2 37 27 3 52 74 
+ Route 1(load: 140) 18 10 14 36 4 34 40 5 47 
+ Route 2(load: 139) 91 70 95 54 56 87 63 97 51 
+ Route 3(load: 144) 61 76 58 73 92 75 79 90 53 57 
+Location: 4(load: 438) 
+ Route 0(load: 150) 86 78 85 84 89 77 94 88 50 66 
+ Route 1(load: 139) 60 96 69 71 62 59 81 98 55 
+ Route 2(load: 149) 82 99 80 67 68 65 83 64 72 93 
+Location: 5(load: 538) 
+ Route 0(load: 99) 13 39 30 45 0 17 
+ Route 1(load: 144) 38 33 6 19 25 48 46 12 31 
+ Route 2(load: 145) 49 11 26 7 32 28 44 16 22 9 
+ Route 3(load: 150) 15 29 23 35 43 20 21 42 8 
+The actual cost is 203988
