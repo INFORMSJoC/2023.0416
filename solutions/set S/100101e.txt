@@ -1,0 +1,36 @@
+The objective is: 
+344322
+The running time is: 
+1320.39
+The time meeting best is: 
+1237.71
+Location: 1(load: 799) 
+ Route 0(load: 60) 0 7 47 85 
+ Route 1(load: 70) 87 37 49 4 
+ Route 2(load: 68) 5 10 75 97 
+ Route 3(load: 70) 81 71 50 11 
+ Route 4(load: 67) 13 43 53 68 
+ Route 5(load: 70) 54 84 17 32 
+ Route 6(load: 70) 18 22 86 34 
+ Route 7(load: 46) 19 77 96 
+ Route 8(load: 69) 31 56 20 42 
+ Route 9(load: 70) 55 93 27 67 57 
+ Route 10(load: 70) 80 69 28 74 
+ Route 11(load: 69) 35 62 30 76 72 
+Location: 2(load: 350) 
+ Route 0(load: 70) 26 52 8 64 36 
+ Route 1(load: 70) 60 95 21 63 
+ Route 2(load: 70) 23 99 73 89 91 
+ Route 3(load: 70) 25 39 24 92 
+ Route 4(load: 70) 82 45 33 58 98 
+Location: 4(load: 355) 
+ Route 0(load: 63) 3 1 40 83 
+ Route 1(load: 69) 2 9 59 65 
+ Route 2(load: 69) 79 14 15 66 
+ Route 3(load: 17) 29 
+ Route 4(load: 70) 78 44 90 94 38 
+ Route 5(load: 67) 41 61 88 48 
+Location: 8(load: 106) 
+ Route 0(load: 68) 70 16 6 12 
+ Route 1(load: 38) 46 51 
+The actual cost is 344322

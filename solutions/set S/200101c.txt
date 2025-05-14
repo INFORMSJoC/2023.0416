@@ -1,0 +1,64 @@
+The objective is: 
+156029
+The running time is: 
+4232.51
+The time meeting best is: 
+3821.65
+Location: 0(load: 537) 
+ Route 0(load: 64) 5 119 73 154 
+ Route 1(load: 69) 10 107 30 44 
+ Route 2(load: 69) 91 184 178 63 19 
+ Route 3(load: 67) 68 155 185 26 
+ Route 4(load: 68) 69 86 27 128 
+ Route 5(load: 61) 32 162 163 61 
+ Route 6(load: 70) 111 174 48 133 93 
+ Route 7(load: 69) 190 76 198 179 74 
+Location: 1(load: 253) 
+ Route 0(load: 64) 137 83 1 123 
+ Route 1(load: 62) 188 21 149 7 
+ Route 2(load: 62) 9 97 13 25 
+ Route 3(load: 65) 157 15 129 87 45 
+Location: 2(load: 389) 
+ Route 0(load: 59) 8 113 99 105 
+ Route 1(load: 62) 89 132 56 28 
+ Route 2(load: 63) 104 46 39 172 
+ Route 3(load: 66) 170 142 173 64 
+ Route 4(load: 70) 121 94 67 116 
+ Route 5(load: 69) 96 143 90 151 
+Location: 3(load: 133) 
+ Route 0(load: 70) 62 120 196 183 12 
+ Route 1(load: 63) 47 70 102 103 
+Location: 4(load: 188) 
+ Route 0(load: 70) 29 34 35 147 
+ Route 1(load: 57) 60 101 82 
+ Route 2(load: 61) 197 180 118 114 
+Location: 5(load: 133) 
+ Route 0(load: 64) 50 6 11 168 
+ Route 1(load: 69) 165 110 51 164 41 
+Location: 6(load: 197) 
+ Route 0(load: 70) 55 18 58 153 
+ Route 1(load: 59) 22 150 122 159 
+ Route 2(load: 68) 175 100 95 84 171 
+Location: 7(load: 583) 
+ Route 0(load: 68) 3 189 77 36 
+ Route 1(load: 66) 17 156 130 177 
+ Route 2(load: 68) 167 24 72 140 
+ Route 3(load: 66) 135 124 65 40 
+ Route 4(load: 69) 136 98 139 49 108 
+ Route 5(load: 70) 146 117 54 193 148 
+ Route 6(load: 65) 75 144 160 126 
+ Route 7(load: 50) 161 78 92 
+ Route 8(load: 61) 145 106 169 88 
+Location: 8(load: 415) 
+ Route 0(load: 70) 191 0 134 38 
+ Route 1(load: 70) 2 158 33 112 20 
+ Route 2(load: 69) 14 81 71 109 4 
+ Route 3(load: 67) 194 131 79 16 23 
+ Route 4(load: 70) 141 43 37 127 
+ Route 5(load: 69) 57 166 52 53 
+Location: 9(load: 270) 
+ Route 0(load: 70) 176 115 31 152 187 
+ Route 1(load: 68) 138 195 59 42 
+ Route 2(load: 67) 182 66 192 85 181 
+ Route 3(load: 65) 125 80 186 199 
+The actual cost is 156029

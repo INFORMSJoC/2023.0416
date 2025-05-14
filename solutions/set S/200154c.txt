@@ -1,0 +1,64 @@
+The objective is: 
+143517
+The running time is: 
+4662.78
+The time meeting best is: 
+4478.9
+Location: 1(load: 299) 
+ Route 0(load: 70) 182 159 172 9 163 
+ Route 1(load: 66) 22 151 190 188 
+ Route 2(load: 70) 195 194 150 184 155 
+ Route 3(load: 29) 187 162 
+ Route 4(load: 64) 173 180 166 177 
+Location: 4(load: 479) 
+ Route 0(load: 69) 108 140 125 38 107 
+ Route 1(load: 70) 113 101 133 126 
+ Route 2(load: 66) 109 117 122 124 
+ Route 3(load: 67) 153 152 158 176 
+ Route 4(load: 67) 157 165 197 189 161 
+ Route 5(load: 70) 169 160 185 199 
+ Route 6(load: 70) 181 191 178 179 192 
+Location: 6(load: 273) 
+ Route 0(load: 64) 11 89 50 2 
+ Route 1(load: 70) 97 99 61 4 
+ Route 2(load: 69) 21 32 175 193 17 
+ Route 3(load: 70) 67 94 65 74 92 
+Location: 7(load: 138) 
+ Route 0(load: 69) 26 43 47 0 39 
+ Route 1(load: 69) 30 10 123 115 
+Location: 8(load: 484) 
+ Route 0(load: 70) 149 118 104 15 116 
+ Route 1(load: 67) 40 46 18 134 
+ Route 2(load: 70) 37 19 28 144 
+ Route 3(load: 69) 112 110 27 132 103 
+ Route 4(load: 70) 139 130 114 100 128 
+ Route 5(load: 70) 147 146 148 102 121 
+ Route 6(load: 68) 105 138 120 143 
+Location: 9(load: 330) 
+ Route 0(load: 68) 3 25 6 31 7 
+ Route 1(load: 61) 42 16 20 36 
+ Route 2(load: 70) 85 52 83 58 95 
+ Route 3(load: 63) 53 80 77 90 
+ Route 4(load: 68) 72 81 56 93 
+Location: 10(load: 204) 
+ Route 0(load: 69) 29 137 141 111 
+ Route 1(load: 69) 145 136 119 106 127 
+ Route 2(load: 66) 135 129 142 131 
+Location: 11(load: 57) 
+ Route 0(load: 57) 14 5 48 44 
+Location: 12(load: 539) 
+ Route 0(load: 60) 23 13 12 49 
+ Route 1(load: 70) 24 60 79 64 
+ Route 2(load: 70) 51 35 34 45 
+ Route 3(load: 68) 82 87 69 54 66 
+ Route 4(load: 66) 70 96 55 75 98 
+ Route 5(load: 67) 62 57 73 91 
+ Route 6(load: 68) 59 68 78 88 
+ Route 7(load: 70) 76 63 71 86 84 
+Location: 13(load: 69) 
+ Route 0(load: 69) 8 41 33 1 
+Location: 14(load: 204) 
+ Route 0(load: 64) 171 154 196 164 
+ Route 1(load: 70) 168 170 174 156 
+ Route 2(load: 70) 183 198 167 186 
+The actual cost is 143517

@@ -1,0 +1,65 @@
+The objective is: 
+712978
+The running time is: 
+3645.04
+The time meeting best is: 
+3308.4
+Location: 0(load: 1024) 
+ Route 0(load: 69) 142 6 99 1 
+ Route 1(load: 68) 96 35 76 2 97 
+ Route 2(load: 64) 27 92 4 72 
+ Route 3(load: 69) 5 65 40 34 
+ Route 4(load: 70) 56 7 39 43 57 
+ Route 5(load: 70) 37 79 89 8 
+ Route 6(load: 70) 9 38 25 69 
+ Route 7(load: 68) 13 49 11 64 
+ Route 8(load: 70) 88 59 14 45 58 
+ Route 9(load: 70) 71 16 36 15 22 
+ Route 10(load: 69) 87 41 19 86 
+ Route 11(load: 70) 90 53 67 63 
+ Route 12(load: 67) 122 107 60 199 
+ Route 13(load: 69) 68 61 83 95 
+ Route 14(load: 61) 151 74 129 144 
+Location: 3(load: 512) 
+ Route 0(load: 64) 113 163 108 103 
+ Route 1(load: 65) 185 120 118 110 
+ Route 2(load: 68) 160 121 114 179 
+ Route 3(load: 69) 164 139 116 180 159 
+ Route 4(load: 70) 184 147 177 173 
+ Route 5(load: 50) 126 131 174 
+ Route 6(load: 67) 167 193 186 119 
+ Route 7(load: 59) 157 166 165 128 
+Location: 6(load: 512) 
+ Route 0(load: 62) 127 100 149 138 
+ Route 1(load: 66) 196 123 112 156 102 
+ Route 2(load: 70) 168 152 148 104 132 
+ Route 3(load: 70) 109 195 190 154 
+ Route 4(load: 47) 176 124 134 
+ Route 5(load: 68) 130 191 162 197 
+ Route 6(load: 69) 183 192 188 170 140 
+ Route 7(load: 60) 181 158 145 172 
+Location: 7(load: 128) 
+ Route 0(load: 62) 20 21 80 66 
+ Route 1(load: 66) 62 77 29 84 33 
+Location: 8(load: 128) 
+ Route 0(load: 66) 189 101 182 187 175 
+ Route 1(load: 62) 153 141 136 117 
+Location: 9(load: 128) 
+ Route 0(load: 58) 111 171 143 106 
+ Route 1(load: 70) 115 155 161 169 137 
+Location: 10(load: 128) 
+ Route 0(load: 70) 82 85 47 3 46 
+ Route 1(load: 58) 73 52 94 93 
+Location: 11(load: 128) 
+ Route 0(load: 70) 98 0 32 18 51 
+ Route 1(load: 58) 81 26 31 42 
+Location: 12(load: 128) 
+ Route 0(load: 68) 75 24 78 23 
+ Route 1(load: 60) 30 28 54 48 
+Location: 13(load: 128) 
+ Route 0(load: 65) 105 133 198 135 
+ Route 1(load: 63) 150 146 178 194 125 
+Location: 14(load: 128) 
+ Route 0(load: 69) 12 44 10 70 
+ Route 1(load: 59) 17 50 91 55 
+The actual cost is 712978

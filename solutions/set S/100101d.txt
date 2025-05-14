@@ -1,0 +1,37 @@
+The objective is: 
+363930
+The running time is: 
+1378.94
+The time meeting best is: 
+1248.8
+Location: 2(load: 324) 
+ Route 0(load: 57) 26 52 8 25 
+ Route 1(load: 63) 21 95 91 63 
+ Route 2(load: 69) 60 39 24 92 
+ Route 3(load: 69) 98 58 33 82 36 
+ Route 4(load: 66) 45 90 94 64 
+Location: 3(load: 320) 
+ Route 0(load: 69) 2 9 59 65 
+ Route 1(load: 60) 5 97 75 55 
+ Route 2(load: 58) 19 96 77 35 
+ Route 3(load: 69) 38 62 30 76 72 
+ Route 4(load: 64) 57 80 67 74 
+Location: 4(load: 315) 
+ Route 0(load: 67) 66 79 3 29 
+ Route 1(load: 68) 12 6 16 70 
+ Route 2(load: 51) 43 13 53 
+ Route 3(load: 62) 78 44 14 15 
+ Route 4(load: 67) 48 88 61 41 
+Location: 7(load: 327) 
+ Route 0(load: 64) 83 1 40 23 
+ Route 1(load: 67) 42 31 10 93 
+ Route 2(load: 62) 99 73 84 17 
+ Route 3(load: 64) 89 56 20 54 
+ Route 4(load: 70) 69 28 27 32 
+Location: 8(load: 324) 
+ Route 0(load: 65) 34 0 47 7 
+ Route 1(load: 70) 49 4 86 87 
+ Route 2(load: 70) 81 71 50 11 
+ Route 3(load: 62) 68 85 18 22 
+ Route 4(load: 57) 46 37 51 
+The actual cost is 363930
