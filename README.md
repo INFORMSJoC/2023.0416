@@ -12,8 +12,9 @@ that were used in the research reported in the paper _A Hybrid Genetic Algorithm
 
 To cite the contents of this repository, please cite both the paper and this repo, using their respective DOIs.
 
+https://doi.org/10.1287/ijoc.2023.0416
 
-
+https://doi.org/10.1287/ijoc.2023.0416.cd
 
 
 Below is the BibTex for citing this snapshot of the repository.
