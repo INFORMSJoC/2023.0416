@@ -24,8 +24,8 @@ Below is the BibTex for citing this snapshot of the repository.
   publisher =     {INFORMS Journal on Computing},
   title =         {A Hybrid Genetic Algorithm with Multi-population for Capacitated Location Routing},
   year =          {2025},
-  doi =           {},
-  url =           {},
+  doi =           {10.1287/ijoc.2023.0416.cd},
+  url =           {https://github.com/INFORMSJoC/2023.0416},
   note =          {Available for download at https://github.com/INFORMSJoC/2023.0416},
 } 
 ```
