@@ -49,6 +49,7 @@ _Usage:_
 - 'numOfRuns' is the maximum runs of each run
 - 'randomSeed' is the random seed 
 
+_Note see script for details.
 
 ## Materials
 This repository includes the following materials:
