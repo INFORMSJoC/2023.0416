@@ -1,0 +1,60 @@
+The objective is: 
+827346
+The running time is: 
+4019.85
+The time meeting best is: 
+3635.34
+Location: 0(load: 414) 
+ Route 0(load: 70) 44 48 5 14 154 
+ Route 1(load: 69) 22 187 162 155 180 
+ Route 2(load: 69) 177 190 188 151 
+ Route 3(load: 66) 156 174 166 173 
+ Route 4(load: 70) 171 164 168 196 
+ Route 5(load: 70) 183 198 167 186 
+Location: 2(load: 345) 
+ Route 0(load: 67) 40 46 18 134 
+ Route 1(load: 70) 106 119 116 114 27 
+ Route 2(load: 68) 136 125 38 145 129 
+ Route 3(load: 70) 122 109 117 138 
+ Route 4(load: 70) 137 135 142 131 
+Location: 3(load: 406) 
+ Route 0(load: 69) 8 41 33 1 
+ Route 1(load: 66) 89 2 50 12 
+ Route 2(load: 69) 67 94 61 92 4 
+ Route 3(load: 70) 11 60 64 79 
+ Route 4(load: 65) 17 97 99 74 
+ Route 5(load: 67) 32 175 178 193 21 
+Location: 4(load: 409) 
+ Route 0(load: 69) 197 165 170 9 172 
+ Route 1(load: 69) 182 195 194 150 159 
+ Route 2(load: 67) 153 152 176 169 
+ Route 3(load: 67) 158 184 163 157 
+ Route 4(load: 67) 199 181 185 160 
+ Route 5(load: 70) 191 179 189 192 161 
+Location: 7(load: 278) 
+ Route 0(load: 69) 26 43 47 0 39 
+ Route 1(load: 69) 30 10 123 29 
+ Route 2(load: 70) 101 113 124 140 108 
+ Route 3(load: 70) 126 133 107 115 
+Location: 9(load: 408) 
+ Route 0(load: 68) 7 31 6 25 3 
+ Route 1(load: 61) 36 20 16 42 
+ Route 2(load: 70) 83 52 78 72 
+ Route 3(load: 70) 95 58 85 80 53 
+ Route 4(load: 70) 90 77 75 55 96 
+ Route 5(load: 69) 93 56 65 81 
+Location: 10(load: 408) 
+ Route 0(load: 69) 105 15 104 149 139 
+ Route 1(load: 70) 144 37 19 28 
+ Route 2(load: 70) 148 128 100 127 110 
+ Route 3(load: 64) 121 146 102 111 
+ Route 4(load: 69) 141 112 132 103 147 
+ Route 5(load: 66) 143 118 120 130 
+Location: 12(load: 408) 
+ Route 0(load: 70) 24 66 84 13 49 
+ Route 1(load: 65) 82 69 62 23 
+ Route 2(load: 70) 45 34 35 51 
+ Route 3(load: 70) 86 71 63 76 54 
+ Route 4(load: 68) 87 70 98 57 73 
+ Route 5(load: 65) 59 68 88 91 
+The actual cost is 827346

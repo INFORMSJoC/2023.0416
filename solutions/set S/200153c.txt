@@ -1,0 +1,67 @@
+The objective is: 
+140765
+The running time is: 
+4600.47
+The time meeting best is: 
+4500.88
+Location: 0(load: 128) 
+ Route 0(load: 59) 144 148 192 138 
+ Route 1(load: 69) 179 159 188 197 
+Location: 1(load: 200) 
+ Route 0(load: 70) 84 125 107 82 72 
+ Route 1(load: 69) 147 155 183 187 186 
+ Route 2(load: 61) 170 157 153 173 
+Location: 2(load: 333) 
+ Route 0(load: 64) 129 112 66 83 
+ Route 1(load: 62) 70 68 116 96 
+ Route 2(load: 70) 190 135 86 109 131 
+ Route 3(load: 68) 102 90 110 105 113 
+ Route 4(load: 69) 140 174 91 166 
+Location: 3(load: 325) 
+ Route 0(load: 62) 133 132 169 165 
+ Route 1(load: 70) 161 156 175 134 
+ Route 2(load: 69) 160 143 176 137 
+ Route 3(load: 58) 163 141 191 150 
+ Route 4(load: 66) 199 167 154 172 
+Location: 4(load: 61) 
+ Route 0(load: 61) 97 92 114 106 
+Location: 5(load: 58) 
+ Route 0(load: 58) 79 120 111 77 
+Location: 6(load: 461) 
+ Route 0(load: 68) 2 60 36 50 28 
+ Route 1(load: 70) 18 21 15 5 
+ Route 2(load: 59) 25 8 46 55 
+ Route 3(load: 63) 13 10 24 64 
+ Route 4(load: 69) 17 63 43 41 
+ Route 5(load: 63) 26 52 37 39 
+ Route 6(load: 69) 54 59 31 62 
+Location: 7(load: 208) 
+ Route 0(load: 69) 45 14 65 1 
+ Route 1(load: 70) 44 38 53 9 
+ Route 2(load: 69) 49 48 33 27 56 
+Location: 8(load: 270) 
+ Route 0(load: 70) 121 130 101 103 67 
+ Route 1(load: 64) 71 108 94 93 
+ Route 2(load: 68) 100 117 85 80 
+ Route 3(load: 68) 127 124 87 98 119 
+Location: 9(load: 409) 
+ Route 0(load: 69) 136 182 158 149 193 
+ Route 1(load: 70) 178 196 152 139 189 
+ Route 2(load: 70) 142 151 145 195 
+ Route 3(load: 66) 180 146 194 181 
+ Route 4(load: 67) 164 171 168 162 
+ Route 5(load: 67) 177 198 184 185 
+Location: 12(load: 135) 
+ Route 0(load: 68) 123 99 69 95 
+ Route 1(load: 67) 88 126 73 118 
+Location: 13(load: 190) 
+ Route 0(load: 67) 6 0 42 22 
+ Route 1(load: 62) 40 3 58 29 
+ Route 2(load: 61) 4 20 12 30 
+Location: 14(load: 325) 
+ Route 0(load: 63) 75 7 11 128 
+ Route 1(load: 70) 19 16 34 32 47 
+ Route 2(load: 63) 23 35 61 57 
+ Route 3(load: 60) 115 104 81 51 
+ Route 4(load: 69) 89 122 76 78 74 
+The actual cost is 140765

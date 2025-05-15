@@ -1,0 +1,84 @@
+The objective is: 
+1.33793e+06
+The running time is: 
+5205.31
+The time meeting best is: 
+5202.7
+Location: 0(load: 461) 
+ Route 0(load: 67) 102 160 141 12 
+ Route 1(load: 69) 240 272 14 140 
+ Route 2(load: 69) 106 56 277 20 97 
+ Route 3(load: 67) 67 251 214 181 60 
+ Route 4(load: 67) 248 64 293 63 
+ Route 5(load: 60) 164 163 222 107 
+ Route 6(load: 62) 237 230 177 235 
+Location: 2(load: 530) 
+ Route 0(load: 66) 159 24 1 117 296 
+ Route 1(load: 68) 169 254 178 6 182 
+ Route 2(load: 58) 245 108 17 298 
+ Route 3(load: 68) 238 93 21 98 
+ Route 4(load: 70) 249 22 173 252 244 
+ Route 5(load: 70) 89 103 151 26 
+ Route 6(load: 68) 294 217 42 264 
+ Route 7(load: 62) 219 166 225 95 
+Location: 3(load: 615) 
+ Route 0(load: 69) 5 4 161 256 220 
+ Route 1(load: 70) 239 221 16 283 
+ Route 2(load: 68) 253 150 279 46 
+ Route 3(load: 70) 268 52 146 104 157 
+ Route 4(load: 66) 273 197 144 57 
+ Route 5(load: 66) 62 278 180 286 
+ Route 6(load: 67) 250 202 125 127 70 
+ Route 7(load: 70) 142 255 138 88 
+ Route 8(load: 69) 191 155 291 285 
+Location: 5(load: 609) 
+ Route 0(load: 69) 131 135 111 258 8 
+ Route 1(load: 69) 80 13 187 69 
+ Route 2(load: 67) 31 36 269 156 
+ Route 3(load: 67) 39 58 186 101 295 
+ Route 4(load: 70) 41 143 231 90 139 
+ Route 5(load: 68) 116 175 84 171 
+ Route 6(load: 62) 147 115 208 280 
+ Route 7(load: 67) 261 233 128 123 137 
+ Route 8(load: 70) 192 284 205 247 
+Location: 6(load: 607) 
+ Route 0(load: 66) 289 92 3 287 
+ Route 1(load: 69) 7 72 23 65 
+ Route 2(load: 70) 38 122 33 99 165 
+ Route 3(load: 70) 79 172 40 170 232 
+ Route 4(load: 70) 179 212 55 242 
+ Route 5(load: 62) 216 74 77 96 
+ Route 6(load: 68) 78 76 275 94 
+ Route 7(load: 67) 185 263 259 81 
+ Route 8(load: 65) 213 195 292 148 
+Location: 7(load: 604) 
+ Route 0(load: 64) 9 2 183 37 
+ Route 1(load: 66) 112 53 266 19 
+ Route 2(load: 68) 34 110 176 130 
+ Route 3(load: 64) 47 288 61 265 
+ Route 4(load: 70) 75 174 54 133 
+ Route 5(load: 68) 204 71 190 290 
+ Route 6(load: 70) 215 229 119 267 86 
+ Route 7(load: 65) 257 152 100 226 
+ Route 8(load: 69) 210 227 218 145 
+Location: 11(load: 606) 
+ Route 0(load: 68) 184 51 105 0 66 
+ Route 1(load: 66) 211 85 223 25 10 
+ Route 2(load: 67) 207 189 32 271 
+ Route 3(load: 70) 282 149 44 281 158 
+ Route 4(load: 65) 297 59 228 87 
+ Route 5(load: 67) 299 68 120 209 
+ Route 6(load: 69) 82 193 136 129 124 
+ Route 7(load: 69) 114 153 194 241 132 
+ Route 8(load: 65) 198 201 200 262 
+Location: 12(load: 620) 
+ Route 0(load: 70) 109 188 83 11 
+ Route 1(load: 69) 15 48 196 274 73 
+ Route 2(load: 70) 113 18 29 167 49 
+ Route 3(load: 70) 260 168 206 28 27 
+ Route 4(load: 64) 199 162 30 118 
+ Route 5(load: 70) 243 91 126 35 
+ Route 6(load: 70) 224 43 154 236 45 
+ Route 7(load: 69) 270 50 234 246 
+ Route 8(load: 68) 276 121 134 203 
+The actual cost is 1.33793e+06

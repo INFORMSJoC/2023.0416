@@ -1,0 +1,36 @@
+The objective is: 
+87555
+The running time is: 
+1181.76
+The time meeting best is: 
+1112.21
+Location: 0(load: 265) 
+ Route 0(load: 69) 0 15 13 1 22 
+ Route 1(load: 66) 20 4 18 16 
+ Route 2(load: 64) 26 19 6 24 
+ Route 3(load: 66) 23 25 14 9 
+Location: 1(load: 587) 
+ Route 0(load: 61) 74 28 5 84 
+ Route 1(load: 70) 70 80 67 93 60 
+ Route 2(load: 62) 64 61 72 75 
+ Route 3(load: 70) 68 62 96 97 
+ Route 4(load: 70) 88 92 65 86 91 
+ Route 5(load: 66) 78 87 66 90 
+ Route 6(load: 52) 69 82 81 79 
+ Route 7(load: 68) 98 77 85 95 
+ Route 8(load: 68) 83 76 99 94 
+Location: 2(load: 59) 
+ Route 0(load: 59) 7 2 17 10 
+Location: 3(load: 137) 
+ Route 0(load: 69) 12 3 21 29 
+ Route 1(load: 68) 11 27 73 8 
+Location: 4(load: 514) 
+ Route 0(load: 62) 30 40 33 51 
+ Route 1(load: 58) 53 59 48 31 
+ Route 2(load: 64) 58 32 57 49 
+ Route 3(load: 70) 46 42 34 54 43 
+ Route 4(load: 70) 89 71 63 35 
+ Route 5(load: 69) 45 47 38 52 36 
+ Route 6(load: 64) 50 44 37 41 
+ Route 7(load: 57) 39 56 55 
+The actual cost is 87555

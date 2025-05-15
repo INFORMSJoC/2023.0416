@@ -1,0 +1,80 @@
+The objective is: 
+776857
+The running time is: 
+7780.93
+The time meeting best is: 
+7455.1
+Location: 3(load: 1485) 
+ Route 0(load: 70) 56 0 7 87 72 
+ Route 1(load: 67) 1 81 69 41 
+ Route 2(load: 66) 36 68 54 2 
+ Route 3(load: 69) 35 3 70 19 
+ Route 4(load: 69) 31 4 86 16 
+ Route 5(load: 63) 5 15 83 79 
+ Route 6(load: 67) 38 75 92 67 6 
+ Route 7(load: 68) 39 59 88 97 8 
+ Route 8(load: 70) 9 76 32 80 
+ Route 9(load: 70) 58 52 77 11 89 
+ Route 10(load: 67) 44 12 28 61 
+ Route 11(load: 70) 13 90 46 23 73 
+ Route 12(load: 65) 14 21 60 40 
+ Route 13(load: 70) 63 85 27 17 51 
+ Route 14(load: 59) 18 47 50 26 
+ Route 15(load: 70) 99 20 55 33 
+ Route 16(load: 63) 65 22 94 42 
+ Route 17(load: 69) 95 37 24 48 
+ Route 18(load: 70) 34 43 25 49 
+ Route 19(load: 66) 93 62 71 29 
+ Route 20(load: 67) 98 84 66 30 
+ Route 21(load: 70) 53 64 82 45 
+Location: 9(load: 1824) 
+ Route 0(load: 65) 113 166 139 158 
+ Route 1(load: 66) 118 169 151 137 
+ Route 2(load: 66) 165 174 146 180 
+ Route 3(load: 70) 219 149 263 223 285 
+ Route 4(load: 68) 257 271 177 211 
+ Route 5(load: 70) 280 200 253 294 249 
+ Route 6(load: 57) 242 201 266 244 
+ Route 7(load: 69) 268 202 254 247 
+ Route 8(load: 68) 283 251 203 289 
+ Route 9(load: 69) 278 207 204 265 
+ Route 10(load: 70) 298 248 267 205 286 
+ Route 11(load: 66) 208 218 234 206 
+ Route 12(load: 61) 209 296 240 222 
+ Route 13(load: 63) 233 220 210 270 
+ Route 14(load: 69) 212 250 261 241 
+ Route 15(load: 69) 213 255 237 225 
+ Route 16(load: 70) 231 216 295 226 214 
+ Route 17(load: 65) 229 297 264 215 
+ Route 18(load: 69) 276 227 217 287 252 
+ Route 19(load: 70) 221 273 299 291 
+ Route 20(load: 65) 224 293 262 259 
+ Route 21(load: 70) 260 228 275 246 284 
+ Route 22(load: 70) 230 232 256 269 
+ Route 23(load: 70) 282 235 239 277 
+ Route 24(load: 70) 292 238 290 236 
+ Route 25(load: 70) 288 243 279 245 
+ Route 26(load: 69) 281 274 258 272 
+Location: 11(load: 1435) 
+ Route 0(load: 68) 74 103 91 57 10 
+ Route 1(load: 69) 102 78 96 155 
+ Route 2(load: 69) 124 127 100 179 
+ Route 3(load: 70) 106 175 136 101 194 
+ Route 4(load: 69) 188 145 104 187 164 
+ Route 5(load: 68) 193 172 105 181 
+ Route 6(load: 69) 107 144 116 114 189 
+ Route 7(load: 70) 150 108 125 197 168 
+ Route 8(load: 66) 138 159 109 161 
+ Route 9(load: 70) 141 110 173 171 198 
+ Route 10(load: 64) 182 111 121 117 
+ Route 11(load: 67) 135 167 112 152 
+ Route 12(load: 70) 128 130 115 176 
+ Route 13(load: 70) 153 134 119 191 
+ Route 14(load: 68) 195 120 183 160 
+ Route 15(load: 66) 122 123 126 190 
+ Route 16(load: 67) 129 186 163 184 140 
+ Route 17(load: 68) 143 131 196 185 
+ Route 18(load: 68) 132 147 154 170 
+ Route 19(load: 70) 156 133 199 178 142 
+ Route 20(load: 69) 157 192 162 148 
+The actual cost is 776857
